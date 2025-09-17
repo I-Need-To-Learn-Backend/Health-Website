@@ -1,0 +1,13 @@
+*{
+    list-style: none;
+}
+
+body{
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #FFFDD0;
+}
+
+.flexbox{
+    display: flex;
+}
