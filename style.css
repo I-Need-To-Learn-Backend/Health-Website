@@ -6,7 +6,8 @@
 
 body{
     font-family: "Tsukimi Rounded", sans-serif;
-    background: url("webg.jpeg") no-repeat;
+    background: #64639e;
+    color: white;
 }
 
 .flexbox{
