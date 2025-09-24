@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Tsukimi+Rounded&display=swap');
+
 *{
     list-style: none;
 }
 
 body{
-    font-family: sans-serif;
+    font-family: "Tsukimi Rounded", sans-serif;
     background-color: #FFFDD0;
 }
 
