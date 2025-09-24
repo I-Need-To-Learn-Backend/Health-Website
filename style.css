@@ -8,8 +8,7 @@ body{
     font-family: "Tsukimi Rounded", sans-serif;
     background: #64639e;
     color: white;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin: 20px;
 }
 
 .flexbox{
